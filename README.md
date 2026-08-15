@@ -32,7 +32,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielbuitragoh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF7C2A&icon_color=FF7C2A&text_color=8B949E&hide_title=true" alt="Estadísticas de GitHub" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielbuitragoh&hide_border=true&background=00000000&stroke=FF7C2A&ring=FF7C2A&fire=FF7C2A&currStreakLabel=FF7C2A&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E" alt="Racha de contribuciones" height="165" />
 
 </div>
