@@ -8,7 +8,7 @@
 
 - 🎓 Estudiante de Ingeniería de Sistemas, con la meta de entrar como developer junior en 2027
 - 🛠️ Construyo con **React**, **React Native (Expo)**, **TypeScript** y **Supabase**
-- 🎨 Enfocando el Diseño — cuidando tanto el código como la marca
+- 🎨 Diseño Enfocado — cuidando tanto el código como la marca
 - 🚀 Ahora mismo trabajando en **[La Mesa](https://github.com/danielbuitragoh/la-mesa)**, una app de pedidos de restaurante de punta a punta
 - 📍 Madrid, España · vínculos con Colombia
 - 📫 daniel.buitrago-h@uniminuto.edu.co
