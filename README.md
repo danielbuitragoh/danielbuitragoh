@@ -10,7 +10,7 @@
 - 🛠️ Construyo con **React**, **React Native (Expo)**, **TypeScript** y **Supabase**
 - 🎨 También diseño en Canva — cuido tanto el código como la marca
 - 🚀 Ahora mismo trabajando en **[La Mesa](https://github.com/danielbuitragoh/la-mesa)**, una app de pedidos de restaurante de punta a punta
-- 📍 Madrid, España · vínculos con Medellín, Colombia
+- 📍 Madrid, España · vínculos con Colombia
 - 📫 daniel.buitrago-h@uniminuto.edu.co
 
 ### Mi stack
