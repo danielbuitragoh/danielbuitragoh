@@ -8,7 +8,7 @@
 
 - 🎓 Estudiante de Ingeniería de Sistemas, con la meta de incorporarme como developer a jornada completa en 2027
 - 🛠️ Construyo con **TypeScript**, **Node**, **React**, **React Native (Expo)**, **PostgreSQL** y **Supabase**
-- 🔐 Lo que más me interesa es el backend: modelar bien los datos, cerrar los permisos de verdad y dejar una API que dé gusto consumir
+- 🔐 Disfruto tanto el backend —modelar bien los datos, cerrar los permisos de verdad y dejar una API que dé gusto consumir— como el frontend: construir la interfaz que lo consume y meterme en las decisiones de diseño visual, para que el resultado se vea tan bien como funciona por dentro
 - 📍 Madrid, España · vínculos con Colombia
 - 📫 daniel.buitrago-h@uniminuto.edu.co
 
