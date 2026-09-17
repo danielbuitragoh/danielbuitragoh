@@ -1,33 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF7C2A&center=true&vCenter=true&width=460&lines=Hola%2C+soy+Daniel+%F0%9F%91%8B;Full-stack+junior+dev;React+%C2%B7+React+Native+%C2%B7+Supabase" alt="Hola, soy Daniel" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF7C2A&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Daniel+%F0%9F%91%8B;Construyo%2C+pruebo+y+despliego.;Y+respondo+por+cada+decisi%C3%B3n.;TypeScript+%C2%B7+Node+%C2%B7+React+%C2%B7+PostgreSQL" alt="Hola, soy Daniel" />
 
 </div>
 
 ### Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas, con la meta de entrar como developer junior en 2027
-- 🛠️ Construyo con **React**, **React Native (Expo)**, **TypeScript** y **Supabase**
-- 🎨 Diseño Enfocado — cuidando tanto el código como la marca
-- 🚀 Ahora mismo trabajando en **[La Mesa](https://github.com/danielbuitragoh/la-mesa)**, una app de pedidos de restaurante de punta a punta
+- 🎓 Estudiante de Ingeniería de Sistemas, con la meta de incorporarme como developer a jornada completa en 2027
+- 🛠️ Construyo con **TypeScript**, **Node**, **React**, **React Native (Expo)**, **PostgreSQL** y **Supabase**
+- 🔐 Lo que más me interesa es el backend: modelar bien los datos, cerrar los permisos de verdad y dejar una API que dé gusto consumir
 - 📍 Madrid, España · vínculos con Colombia
 - 📫 daniel.buitrago-h@uniminuto.edu.co
+
+### Mis proyectos
+
+Seis proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**gestor-postulaciones**](https://github.com/danielbuitragoh/gestor-postulaciones) | Tablero Kanban para la búsqueda de empleo: arrastre accesible con teclado, actualización optimista reversible y métricas que no mienten cuando no hay datos. | React · TypeScript · Vite |
+| [**api-postulaciones**](https://github.com/danielbuitragoh/api-postulaciones) | La API REST que sostiene el tablero: historial de eventos en vez de un estado que se sobrescribe, JWT con refresh rotativo, Argon2id, 46 pruebas contra PostgreSQL real. | Node · Express · PostgreSQL |
+| [**flowyn**](https://github.com/danielbuitragoh/flowyn-fae-skin) | Landing y tienda de un producto de skincare, con checkout por WhatsApp y auditada contra WCAG AA. [Ver la web](https://danielbuitragoh.github.io/flowyn-fae-skin/) | Vite · Supabase |
+| [**la-mesa**](https://github.com/danielbuitragoh/la-mesa) | Sistema de pedidos para restaurante de punta a punta: app del cliente, panel de cocina en tiempo real y backend con permisos a nivel de fila. [Ver la app](https://danielbuitragoh.github.io/la-mesa/app-web/) | React Native · Expo · Supabase |
+| [**panel-divisas**](https://github.com/danielbuitragoh/panel-divisas) | Panel de tasas de cambio en vivo para 5 monedas latinoamericanas, con datos de 98 bancos centrales. [Ver el panel](https://danielbuitragoh.github.io/panel-divisas/) | React · TypeScript · Recharts |
+| [**frankfurter-ts**](https://github.com/danielbuitragoh/frankfurter-ts) | Cliente TypeScript de la API de divisas Frankfurter: caché que respeta al servidor, reintentos con backoff exponencial y dinero sin coma flotante. | TypeScript · Vitest |
 
 ### Mi stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css" alt="Frontend" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,java,git,github" alt="Backend y herramientas" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,git,github" alt="Backend y herramientas" />
 </p>
-
-### Proyecto destacado
-
-**[La Mesa](https://github.com/danielbuitragoh/la-mesa)** — app de pedidos para restaurante, de punta a punta: menú real desde Supabase, carrito y checkout, panel de administración en tiempo real, seguimiento en vivo del pedido.
-
-[Ver la demo](https://danielbuitragoh.github.io/la-mesa/app-web/) · [Ver el panel](https://danielbuitragoh.github.io/la-mesa/panel/panel-admin.html)
-
 ---
 
 <div align="center">
