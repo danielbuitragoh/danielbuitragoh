@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF7C2A&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Daniel+%F0%9F%91%8B;Construyo%2C+pruebo+y+despliego.;Y+respondo+por+cada+decisi%C3%B3n.;TypeScript+%C2%B7+Node+%C2%B7+React+%C2%B7+PostgreSQL" alt="Hola, soy Daniel" />
+# Daniel Buitrago 👋
 
-</div>
+**Construyo, pruebo y despliego. Y respondo por cada decisión.**
 
 ### Sobre mí
 
