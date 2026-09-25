@@ -14,12 +14,13 @@
 
 ### Mis proyectos
 
-Seis proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
+Siete proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**gestor-postulaciones**](https://github.com/danielbuitragoh/gestor-postulaciones) | Tablero Kanban para la búsqueda de empleo: arrastre accesible con teclado, actualización optimista reversible y métricas que no mienten cuando no hay datos. | React · TypeScript · Vite |
 | [**api-postulaciones**](https://github.com/danielbuitragoh/api-postulaciones) | La API REST que sostiene el tablero: historial de eventos en vez de un estado que se sobrescribe, JWT con refresh rotativo, Argon2id, 46 pruebas contra PostgreSQL real. | Node · Express · PostgreSQL |
+| [**bot-ofertas-empleo**](https://github.com/danielbuitragoh/bot-ofertas-empleo) | Bot de Telegram que unifica 4 bolsas de empleo remoto con 4 formatos distintos, deduplica entre fuentes y avisa cuando algo encaja. Sin servidor: corre en GitHub Actions con cron. | Node · TypeScript · Telegram |
 | [**flowyn**](https://github.com/danielbuitragoh/flowyn-fae-skin) | Landing y tienda de un producto de skincare, con checkout por WhatsApp y auditada contra WCAG AA. [Ver la web](https://danielbuitragoh.github.io/flowyn-fae-skin/) | Vite · Supabase |
 | [**la-mesa**](https://github.com/danielbuitragoh/la-mesa) | Sistema de pedidos para restaurante de punta a punta: app del cliente, panel de cocina en tiempo real y backend con permisos a nivel de fila. [Ver la app](https://danielbuitragoh.github.io/la-mesa/app-web/) | React Native · Expo · Supabase |
 | [**panel-divisas**](https://github.com/danielbuitragoh/panel-divisas) | Panel de tasas de cambio en vivo para 5 monedas latinoamericanas, con datos de 98 bancos centrales. [Ver el panel](https://danielbuitragoh.github.io/panel-divisas/) | React · TypeScript · Recharts |
