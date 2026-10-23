@@ -14,12 +14,13 @@
 
 ### Mis proyectos
 
-Siete proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
+Ocho proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [**api-postulaciones-java**](https://github.com/danielbuitragoh/api-postulaciones-java) | La misma API reescrita en Java 21 y Spring Boot, mi primer proyecto en Java: 113 pruebas contra PostgreSQL real con Testcontainers, CI en GitHub Actions y demo en Render. [Ver la documentación](https://api-postulaciones-java.onrender.com/docs) | Java · Spring Boot · PostgreSQL |
 | [**gestor-postulaciones**](https://github.com/danielbuitragoh/gestor-postulaciones) | Tablero Kanban para la búsqueda de empleo: arrastre accesible con teclado, actualización optimista reversible y métricas que no mienten cuando no hay datos. [Abrir el gestor](https://danielbuitragoh.github.io/gestor-postulaciones/) | React · TypeScript · Vite |
-| [**api-postulaciones**](https://github.com/danielbuitragoh/api-postulaciones) | La API REST que sostiene el tablero: historial de eventos en vez de un estado que se sobrescribe, JWT con refresh rotativo, Argon2id, 50 pruebas contra PostgreSQL real. Desplegada en Vercel con Neon. [Ver en línea](https://api-postulaciones.vercel.app/salud) | Node · Express · PostgreSQL |
+| [**api-postulaciones**](https://github.com/danielbuitragoh/api-postulaciones) | La API REST que sostiene el tablero: historial de eventos en vez de un estado que se sobrescribe, JWT con refresh rotativo, Argon2id, 51 pruebas contra PostgreSQL real. Desplegada en Vercel con Neon. [Ver en línea](https://api-postulaciones.vercel.app/salud) | Node · Express · PostgreSQL |
 | [**bot-ofertas-empleo**](https://github.com/danielbuitragoh/bot-ofertas-empleo) | Bot de Telegram que unifica 5 bolsas de empleo remoto con 5 formatos distintos, deduplica entre fuentes, filtra por perfil y ubicación, y con `/guardar` manda la oferta al gestor. Sin servidor: corre en GitHub Actions con cron. | Node · TypeScript · Telegram |
 | [**flowyn**](https://github.com/danielbuitragoh/flowyn-fae-skin) | Landing y tienda de un producto de skincare, con checkout por WhatsApp y auditada contra WCAG AA. [Ver la web](https://danielbuitragoh.github.io/flowyn-fae-skin/) | Vite · Supabase |
 | [**la-mesa**](https://github.com/danielbuitragoh/la-mesa) | Sistema de pedidos para restaurante de punta a punta: app del cliente, panel de cocina en tiempo real y backend con permisos a nivel de fila. [Ver la app](https://danielbuitragoh.github.io/la-mesa/app-web/) | React Native · Expo · Supabase |
@@ -32,7 +33,7 @@ Siete proyectos completos, del modelo de datos al despliegue — sin ejercicios 
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css" alt="Frontend" />
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,vercel,git,github" alt="Backend y herramientas" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,supabase,vercel,git,github" alt="Backend y herramientas" />
 </p>
 ---
 
