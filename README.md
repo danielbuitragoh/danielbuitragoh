@@ -14,10 +14,12 @@
 
 ### Mis proyectos
 
-Ocho proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
+Diez proyectos completos, del modelo de datos al despliegue — sin ejercicios de clase.
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [**registro-viajeros**](https://github.com/danielbuitragoh/registro-viajeros) | App libre, local-first y cifrada para que alojamientos pequeños preparen el fichero de SES.Hospedajes: sin servidor ni cuentas, PWA que funciona sin conexión, formulario del huésped en 6 idiomas, lector de QR y validación de DNI/NIE/CIF en un paquete propio (`@danielbuitragoh/documentos-es`). 1.086 pruebas: 703 de la app, 362 del paquete y 21 de extremo a extremo. Herramienta no oficial: no envía nada al Ministerio. Idea, especificación, revisión y pruebas: Daniel Buitrago. Código generado con Claude Code bajo su dirección. [Abrir la demo](https://danielbuitragoh.github.io/registro-viajeros/) · [Presentación](https://danielbuitragoh.github.io/registro-viajeros/presentacion/) | TypeScript · React · Vite |
+| [**validador-ses-hospedajes**](https://github.com/danielbuitragoh/validador-ses-hospedajes) | CLI y librería en Python que valida los ficheros XML de alta masiva de SES.Hospedajes antes de subirlos al portal: 71 reglas, y cada error con su línea, su ruta y el apartado del documento oficial. 417 pruebas. Herramienta no oficial: la validación final la hace el portal. Idea, especificación, revisión y pruebas: Daniel Buitrago. Código generado con Claude Code bajo su dirección. | Python · defusedxml · pytest |
 | [**api-postulaciones-java**](https://github.com/danielbuitragoh/api-postulaciones-java) | La misma API reescrita en Java 21 y Spring Boot, mi primer proyecto en Java: 113 pruebas contra PostgreSQL real con Testcontainers, CI en GitHub Actions y demo en Render. [Ver la documentación](https://api-postulaciones-java.onrender.com/docs) | Java · Spring Boot · PostgreSQL |
 | [**gestor-postulaciones**](https://github.com/danielbuitragoh/gestor-postulaciones) | Tablero Kanban para la búsqueda de empleo: arrastre accesible con teclado, actualización optimista reversible y métricas que no mienten cuando no hay datos. [Abrir el gestor](https://danielbuitragoh.github.io/gestor-postulaciones/) | React · TypeScript · Vite |
 | [**api-postulaciones**](https://github.com/danielbuitragoh/api-postulaciones) | La API REST que sostiene el tablero: historial de eventos en vez de un estado que se sobrescribe, JWT con refresh rotativo, Argon2id, 51 pruebas contra PostgreSQL real. Desplegada en Vercel con Neon. [Ver en línea](https://api-postulaciones.vercel.app/salud) | Node · Express · PostgreSQL |
